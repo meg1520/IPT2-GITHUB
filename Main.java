@@ -4,10 +4,10 @@ public class Main{
         int b = 4;
 
         int add = a + b;
-
+        int minus = a - b;
 
         System.out.println("Add: " + add);
-        
+        System.out.println("minus: " + minus);
     }
 }
 
