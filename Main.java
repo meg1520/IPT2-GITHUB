@@ -7,11 +7,13 @@ public class Main{
         int minus = a - b;
         int times = a * b;
         double divide = a / b;
+        double modulus = a % b;
 
         System.out.println("Add: " + add);
         System.out.println("minus: " + minus);
         System.out.println("times: " + times);
         System.out.println("divide: " + divide);
+        System.out.println("modulus: " + modulus);
     }
 }
 
